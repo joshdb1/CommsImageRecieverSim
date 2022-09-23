@@ -1,4 +1,4 @@
-# CommsSystemRecieverSim
+# CommsImageRecieverSim
 
 This program simulates the image communications system receiver shown below:
 
