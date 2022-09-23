@@ -4,5 +4,6 @@ This program python simulates an image communications system receiver implemente
 
 The system diagram for the receiver implemented is below:
 
+[embed]https://github.com/joshdb1/CommsSystemRecieverSim/blob/master/figs/systemDiagram.pdf[/embed]
 
 To run the simulations, run the command (using Python 3.9 or later): `python ./runSims.py`
